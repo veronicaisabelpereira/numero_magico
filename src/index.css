@@ -1,0 +1,27 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+    .fondo-verde {
+      background-color: #9EBC9E;
+    }
+  
+    .fondo-rosa {
+      background-color: #FFAFC5;
+    }
+  
+    .fondo-morado {
+      background-color: #553E4E;
+    }
+  
+    .fondo-rosa-claro {
+      background-color: #E0479E;
+    }
+  
+    .texto-monospace {
+      font-family: 'Courier New', Courier, monospace;
+    }
+  .text-morado{
+    color: #553E4E;
+  }
