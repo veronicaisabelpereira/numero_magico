@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/acertar_numero.github.io/static/css/main.4747cff7.css",
-    "main.js": "/acertar_numero.github.io/static/js/main.33df3610.js",
+    "main.js": "/acertar_numero.github.io/static/js/main.a5ff8cc3.js",
     "index.html": "/acertar_numero.github.io/index.html",
     "main.4747cff7.css.map": "/acertar_numero.github.io/static/css/main.4747cff7.css.map",
-    "main.33df3610.js.map": "/acertar_numero.github.io/static/js/main.33df3610.js.map"
+    "main.a5ff8cc3.js.map": "/acertar_numero.github.io/static/js/main.a5ff8cc3.js.map"
   },
   "entrypoints": [
     "static/css/main.4747cff7.css",
-    "static/js/main.33df3610.js"
+    "static/js/main.a5ff8cc3.js"
   ]
 }
