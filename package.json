@@ -1,8 +1,8 @@
 {
-  "homepage": "https://veronicaisabelpereira.github.io/acertar_numero.github.io",
   "name": "numero-secreto",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://veronicaisabelpereira.github.io/acertar_numero.github.io",
   "dependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.15",
     "@testing-library/jest-dom": "^5.17.0",
@@ -10,8 +10,8 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
-    "svgo": "^3.3.2",
+    "react-scripts": "^3.0.1",
+    "svgo": "^2.3.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -41,8 +41,12 @@
     ]
   },
   "devDependencies": {
+    "@babel/core": "^7.24.7",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-react": "^7.24.7",
     "autoprefixer": "^10.4.19",
+    "fsevents": "^2.3.3",
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4"
@@ -50,5 +54,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/veronicaisabelpereira/acertar_numero.github.io.git"
+  },
+  "resolutions": {
+    "glob": "^9.0.0"
   }
 }
